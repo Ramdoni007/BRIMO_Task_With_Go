@@ -26,7 +26,8 @@ setelah proses testing selesai....
 ![image](https://github.com/Ramdoni007/BRIMO_Task_With_Go/assets/62313268/43e2d89b-f5a8-402b-babf-aef7b397a488)
 testing 1 dan 4 gagal karena tidak sesuai konsep Pendulum dan di sana di berikan ekspektasi hasil yang seharusnya dari suatu kumpulan bilangan slice of int....
 
-
+test 1 harus nya ... pendulum_test.go:40: Pendulum() = [10 4 9] bukan [ 10 9 4 ] 
+test 4 harus nya ... pendulum_test.go:40: Pendulum() = [7 -8 -10 -10 -1] bukan [7 -8 -10 -1 -10]
 
 
 Sekian dan Terima kasih salam hangat Ramdoni Agent Of 007 :)
